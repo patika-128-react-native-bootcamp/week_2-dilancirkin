@@ -21,6 +21,5 @@ const Input = ({onSave}) => {
       </View>
     </View>
   );
-  console.log('sall' + name);
 };
 export default Input;

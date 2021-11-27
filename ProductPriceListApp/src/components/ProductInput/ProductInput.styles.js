@@ -1,12 +1,13 @@
 import {StyleSheet} from 'react-native';
 
 export default StyleSheet.create({
-  btnAddContainer: {
-    backgroundColor: 'black',
-    padding: 5,
-    margin: 5,
-    borderRadius: 10,
-    justifyContent: 'space-around',
-    alignItems: 'center',
+  container: {
+    flex: 1,
+    justifyContent: 'flex-end',
+    margin: 10,
   },
+  flatContainer: {
+    flex: 10,
+  },
+  inputContainer: {},
 });

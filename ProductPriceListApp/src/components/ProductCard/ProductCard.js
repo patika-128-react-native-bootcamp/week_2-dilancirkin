@@ -1,5 +1,6 @@
 import React from 'react';
-import ProductInput from '../ProductInput/ProductInput';
+
+import style from './ProductCard.styles';
 import {
   SafeAreaView,
   View,
@@ -9,6 +10,13 @@ import {
   StatusBar,
 } from 'react-native';
 
-const App = () => {
-  return <View></View>;
+const ProductCard = ({product}) => {
+  const {name, price} = product;
+  return (
+    <View style={style.listContainer}>
+      <Text>{name}</Text>
+      <Text style={style.priceText}>{price} TL</Text>
+    </View>
+  );
 };
+export default ProductCard;
