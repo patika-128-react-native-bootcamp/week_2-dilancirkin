@@ -1,3 +1,1 @@
-
-
-![Alt Text](https://raw.githubusercontent.com/patika-128-react-native-bootcamp/week_2-dilancirkin/main/ezgif.com-gif-maker%20(2).gif?token=AS4B7MS4ECWOD6D4NFCPEYDBUJRG4)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/79175602/143691251-056683c1-0d99-4743-9f48-8a851dc36c22.gif)
